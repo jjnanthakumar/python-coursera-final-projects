@@ -1,3 +1,4 @@
+__author__ = "jjnanthakumar477@gmail.com"
 #Please upload any file in jupyter as per #instruction****important: Pls read the #instructions carefully***** 
 def calculate_frequencies(file_contents):
     # Here is a list of punctuations and uninteresting words you can use to process your text

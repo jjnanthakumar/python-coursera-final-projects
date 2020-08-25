@@ -1,3 +1,4 @@
+__author__ = "jjnanthakumar477@gmail.com"
 import requests_with_caching
 def get_movies_from_tastedive(moviename):
     baseurl = "https://tastedive.com/api/similar"

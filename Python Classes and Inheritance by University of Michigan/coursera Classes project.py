@@ -1,3 +1,4 @@
+__author__ = "jjnanthakumar477@gmail.com"
 # Write the WOFPlayer class definition (part A) here
 class WOFPlayer:
     def __init__(self, name):

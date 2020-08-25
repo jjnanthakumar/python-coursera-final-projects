@@ -1,3 +1,4 @@
+__author__ = "jjnanthakumar477@gmail.com"
 """ This is Coursera final Project using Files """
 
 IDENTICAL = -1
